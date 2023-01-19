@@ -1,4 +1,3 @@
-<?php 
 <!doctype html>
 <html lang="en">
 <head>
@@ -18,6 +17,7 @@
 </head>
 
 <body>
+    <?php include 'include/header.php';?>
     <!-- TOP NAV -->
     <div class="top-nav" id="home">
         <div class="container-fluid px-3">
@@ -401,4 +401,3 @@
     <script src="js/owl.carousel.min.js"></script>
 </body>
 </html>
-?>
