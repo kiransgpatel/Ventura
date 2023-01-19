@@ -17,7 +17,7 @@
 </head>
 
 <body>
-    <?php include 'include/header.php';?>
+    <?php include 'views/header.php';?>
     <!-- TOP NAV -->
     <div class="top-nav" id="home">
         <div class="container-fluid px-3">
